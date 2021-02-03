@@ -1,0 +1,45 @@
+div {
+    border: 1px solid blue;
+background-color: pink;
+font-family:Boogaloo;
+}
+
+img {
+    width: 200px;
+margin: 5px;
+}
+
+.navBar {
+    padding: 40px;
+  
+    display: flex;
+    justify-content: space-between;
+background-color: lightblue;
+font-family:Lobster;
+font-size:20px;
+}
+.navBar a:hover{
+color:yellow;
+transform:scale(1.1);
+}
+.aboutme {
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.header {
+font-family:Lobster;
+background-color: lightblue;
+}
+a{
+    text-decoration:none;
+color:blue;
+  
+}
+.logo {
+font-family:Lobster;
+background-color: pink;
+border-radius:40px;
+border:none;
+}
